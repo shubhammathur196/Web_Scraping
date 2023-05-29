@@ -45,5 +45,3 @@ https://github.com/shubhammathur196/Web_Scraping/Amazon_web_scraping.git
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
